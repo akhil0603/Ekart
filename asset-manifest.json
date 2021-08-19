@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ekart/static/css/main.f9cfdb2f.chunk.css",
+    "main.js": "/Ekart/static/js/main.40ff95e1.chunk.js",
+    "main.js.map": "/Ekart/static/js/main.40ff95e1.chunk.js.map",
+    "runtime-main.js": "/Ekart/static/js/runtime-main.efab995f.js",
+    "runtime-main.js.map": "/Ekart/static/js/runtime-main.efab995f.js.map",
+    "static/js/2.d9210fb6.chunk.js": "/Ekart/static/js/2.d9210fb6.chunk.js",
+    "static/js/2.d9210fb6.chunk.js.map": "/Ekart/static/js/2.d9210fb6.chunk.js.map",
+    "index.html": "/Ekart/index.html",
+    "static/css/main.f9cfdb2f.chunk.css.map": "/Ekart/static/css/main.f9cfdb2f.chunk.css.map",
+    "static/js/2.d9210fb6.chunk.js.LICENSE.txt": "/Ekart/static/js/2.d9210fb6.chunk.js.LICENSE.txt",
+    "static/media/banner.362962ea.gif": "/Ekart/static/media/banner.362962ea.gif",
+    "static/media/carts.aff6dc0d.gif": "/Ekart/static/media/carts.aff6dc0d.gif",
+    "static/media/logo.a8d05a09.gif": "/Ekart/static/media/logo.a8d05a09.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efab995f.js",
+    "static/js/2.d9210fb6.chunk.js",
+    "static/css/main.f9cfdb2f.chunk.css",
+    "static/js/main.40ff95e1.chunk.js"
+  ]
+}
